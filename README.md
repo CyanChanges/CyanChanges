@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-By the way, f___ [@zhuhansan666](https://zhuhansan666) to steal my little `s` as [@CyanChange](https://github.com/CyanChange).
-btw, f___ microsoft
+By the way, f___ [@zhuhansan666](https://zhuhansan666) to steal my little `s` as [@CyanChange](https://github.com/CyanChange).  
+also btw, f___ microsoft
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyanChanges&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
