@@ -8,6 +8,8 @@
   <p>Gửi đến những ai đã gửi cho tôi email liên quan đến sòng bạc, tôi chúc các bạn thăng tiến nhanh chóng</p>
   <p>Όποιος μου στέλνει μηνύματα ηλεκτρονικού ταχυδρομείου σχετικά με το καζίνο, σας εύχομαι ταχεία άνοδο.</p>
 
+谁给赌场发邮件抄送我, 我胸都给你打穿模
+
   <b>Translated by <a href="https://www.deepl.com/">DeepL</a></b>
 
 [![wakatime](https://wakatime.com/badge/user/018b8b08-036a-43ed-9fb7-15731f72c435.svg)](https://wakatime.com/@018b8b08-036a-43ed-9fb7-15731f72c435)
