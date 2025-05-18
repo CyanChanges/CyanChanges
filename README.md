@@ -1,3 +1,12 @@
+### CWD
+npm/GitHub/Microsoft sucks  
+their migration process is stupid  
+and produce bugs a lot  
+while preventing me from use old apis 
+finally they have broke my program :cry:
+
+### Statistics
+
 [![wakatime](https://wakatime.com/badge/user/018b8b08-036a-43ed-9fb7-15731f72c435.svg)](https://wakatime.com/@018b8b08-036a-43ed-9fb7-15731f72c435)
 
 [![GitHub Stats](https://readme-status.cyans.me/api?username=CyanChanges&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
