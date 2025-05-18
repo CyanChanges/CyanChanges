@@ -2,8 +2,8 @@
 npm/GitHub/Microsoft sucks  
 their migration process is stupid  
 and produce bugs a lot  
-while preventing me from use old apis 
-finally they have broke my program :cry:
+while preventing me from use old apis  
+finally they have successfully broke my program :tada: :cry:
 
 ### Statistics
 
