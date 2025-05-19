@@ -1,18 +1,19 @@
-this notifications is seen as appropriate notice of the project licence change.
-you are not allowed to use/share/modify/download/distribute any content from @CyanChanges @CyanProjects or any associated organizations.
-All code is treated as All rights reserved since then.
+## This notifications is seen as appropriate notice of the project licence change.
+
+The following changes is enforced 
+### Since UTC+0000 May 21 00:00:00Z
+
+You are not allowed to use/share/modify/download/distribute any content from @CyanChanges @CyanProjects or any associated organizations.
+
+All code published as All rights reserved.
 All text content is copyrighted.
+
 Any copy is illegal and strictly forbidden.
-We from then on enforce a Communist Code Of Conduct and Community Guildline.
-Any content may be treated as anti-revolutionize and get blocked from our network.
+A Communist Code Of Conduct and a Community Guildlines are enforced.
 
+If the content is recognised as anti-revolutionize, you will get blocked from our network.
 
-### CWD
-npm/GitHub/Microsoft sucks  
-their migration process is stupid  
-and produce bugs a lot  
-while preventing me from use old apis  
-finally they have successfully broke my program :tada: :cry:
+We have specialists of Public Security that focusing on moderating of this part.
 
 ### Statistics
 
