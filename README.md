@@ -1,3 +1,12 @@
+this notifications is seen as appropriate notice of the project licence change.
+you are not allowed to use/share/modify/download/distribute any content from @CyanChanges @CyanProjects or any associated organizations.
+All code is treated as All rights reserved since then.
+All text content is copyrighted.
+Any copy is illegal and strictly forbidden.
+We from then on enforce a Communist Code Of Conduct and Community Guildline.
+Any content may be treated as anti-revolutionize and get blocked from our network.
+
+
 ### CWD
 npm/GitHub/Microsoft sucks  
 their migration process is stupid  
